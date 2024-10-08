@@ -43,4 +43,4 @@ The project is organized as follows:
 
 
 ## Deployment
-This project is deployed on Vercel.
+This project has been deployed on Vercel.
