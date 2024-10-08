@@ -43,4 +43,4 @@ The project is organized as follows:
 
 
 ## Deployment
-This project can be deployed to a hosting service such as Firebase Hosting or Netlify. Configure your hosting service and deploy the application using the provided deployment scripts.
+This project is deployed on Vercel
