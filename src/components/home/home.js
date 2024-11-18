@@ -2,7 +2,7 @@ import React from "react";
 import Header from "../header/header";
 import "./home.css";
 import { Link } from "react-router-dom";
-
+import reactLogo from "./Image.png"
 const Home = () => {
   return (
     <>
