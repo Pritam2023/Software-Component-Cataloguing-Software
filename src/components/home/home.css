@@ -9,9 +9,11 @@
 }
 
 .body .title{
-    font-size: 3rem;
+   font-size: 3rem;
     font-weight: bold;
     text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: 2px 2px 5px;
 }
 
 .body .btn{
@@ -39,7 +41,7 @@
 
 .body .desc{
     font-size: 0.9rem;
-    color: gray;
+    color: rgb(88, 71, 75);
     text-align: center;
     margin: 1rem 20rem;
     margin-top: 2rem;
