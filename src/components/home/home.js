@@ -10,6 +10,7 @@ const Home = () => {
 
       <div className="body">
         <span className="title">
+         <img src={reactLogo} alt="React Logo" className="logo" style={{ width: '175px', height: '175px' }} /><br/>
          Welcome to <br />
           Software Component Cataloguing Software
         </span>
